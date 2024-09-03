@@ -1,0 +1,92 @@
+{
+	"folders": [
+		{
+			"name": "Web Development Projects",
+			"path": "."
+		},
+		{
+			"name": "2.2 Paragraph Element",
+			"path": "../Downloads/2.2 Paragraph Element"
+		},
+		{
+			"name": "2.3 Void Elements",
+			"path": "../Downloads/2.3 Void Elements"
+		},
+		{
+			"name": "2.4 Movie Ranking Project",
+			"path": "../Downloads/2.4 Movie Ranking Project"
+		},
+		{
+			"name": "3.0 List Elements",
+			"path": "../Downloads/3.0 List Elements"
+		},
+		{
+			"name": "3.1 Nesting and Indentation",
+			"path": "../Downloads/3.1 Nesting and Indentation"
+		},
+		{
+			"name": "3.2 Anchor Elements",
+			"path": "../Downloads/3.2 Anchor Elements"
+		},
+		{
+			"name": "3.3 Image Elements",
+			"path": "../Downloads/3.3 Image Elements"
+		},
+		{
+			"name": "3.4 Birthday Invite Project",
+			"path": "../Downloads/3.4 Birthday Invite Project"
+		},
+		{
+			"name": "4.0 File Paths",
+			"path": "../Downloads/4.0 File Paths"
+		},
+		{
+			"name": "4.1+Webpages",
+			"path": "../Downloads/4.1+Webpages"
+		},
+		{
+			"name": "4.3 HTML Porfolio Project",
+			"path": "../Downloads/4.3 HTML Porfolio Project"
+		},
+		{
+			"path": "../Downloads/5.1. Adding CSS"
+		},
+		{
+			"path": "../Downloads/5.3 CSS Selectors"
+		},
+		{
+			"path": "../Downloads/5.4+Color+Vocab+Project"
+		},
+		{
+			"path": "../Downloads/6.3 CSS Box Model"
+		},
+		{
+			"path": "../Downloads/7.0+CSS+Cascade"
+		},
+		{
+			"path": "../Downloads/7.1 Combining Selectors"
+		},
+		{
+			"path": "../Downloads/7.2 CSS Positioning"
+		},
+		{
+			"path": "../Downloads/8.0 CSS Display"
+		},
+		{
+			"path": "../Downloads/8.1 CSS Float"
+		},
+		{
+			"path": "../Downloads/8.3 Media Query"
+		},
+		{
+			"path": "../Downloads/8.4 Web Design Agency Project"
+		},
+		{
+			"path": "../Downloads/9.0 Display Flex"
+		},
+		{
+			"path": "../Downloads/9.1 Flex Direction"
+		}
+	],
+	"settings": {}
+}

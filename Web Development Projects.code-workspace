@@ -101,5 +101,7 @@
 			"path": "../Downloads/9.1 Flex Direction"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web Development Projects"
+	}
 }

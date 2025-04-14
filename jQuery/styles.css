@@ -1,3 +1,10 @@
 body {
     background-color:grey;
 }
+
+.big-title {
+    font-size: 10em;
+    color: maroon;
+    font-family: cursive;
+    
+}
